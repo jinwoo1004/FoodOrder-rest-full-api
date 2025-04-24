@@ -1,4 +1,4 @@
-# 🍕Foodstore Rest Full Api 프로젝트
+# 🍕FoodOrder Rest Full Api 프로젝트
 ## 🛠️ 주요 개발 환경
 
 | 항목           | 버전/설정                           |
